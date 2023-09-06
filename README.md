@@ -7,6 +7,9 @@
 
 Я начинающий QA Automation Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы RedRover.school и курсов Вадима Ксендзова, где я осваиваю профессию тестировщика программного обеспечения. Но больше всего меня зацепило возможность автоматизации для проведения тестирования програмного обеспечения. В настоящий момент я изучаю язык програмирования Python и работой с базой данных SQL. Параллельно ищу возможность устроится на работу по направлении QA Automation Engineer.
 
+! [Bright color] (https://raw.githubusercontent.com/ <<Your account name>/<Your warehouse name> /output/github- controlion-grid-sake.svg)
+
+
 - :telescope: 
 
 - :seedling: 
