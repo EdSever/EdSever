@@ -15,7 +15,6 @@
 - :telescope: 
 
 - :seedling: 
-
 - :mailbox: Как связаться со мной: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Telegram Badge](https://img.shields.io/badge/-EdSever-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/EdSever) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Edmins@gmail.com)
 
 
